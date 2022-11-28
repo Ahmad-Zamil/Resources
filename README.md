@@ -1,4 +1,4 @@
-**25 Necessary Tools for Frontend Developer**
+**14 Necessary Tools for Frontend Developer**
 
 - **Animista:**
 
